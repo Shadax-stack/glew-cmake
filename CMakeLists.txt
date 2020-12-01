@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 2.6)
-project("glew")
+cmake_minimum_required(VERSION 3.0)
+project("glew" VERSION 2.1.0)
 
 set(SRC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/src)
 set(INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/include)
